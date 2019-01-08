@@ -50,4 +50,4 @@ Full documentation can be found in the [docs directory](docs/).
 
 This project is licensed under the terms of the Apache-2.0 license.
 
-See [LICENSE](LICENSE)
+See [LICENSE](LICENSE).
